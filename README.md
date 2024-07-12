@@ -1,3 +1,3 @@
 # CSE151A_Proj
 
-test 
+I would start the preprocessing by singling out data that is missing. In the fares feature, we notice that some people did not pay at all to get onto the Titanic. Having these in our data would skewer our data to a negative correlation between fare and survival chances. We would first drop the people who did not pay at all to get on the Titanic because if we substituted mean as a placeholder, it might affect the correlation between survival rate and class seating. Normalization would occur for features such as the fare and their age as the numbers can increase or decrease drastically which can affect the sensitivity of our algorithm. The sex feature should also be encoded to 0 and 1 where 0 would be for females and 1 would be for males since the rest of the features are in numerical value.  
