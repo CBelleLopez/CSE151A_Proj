@@ -14,20 +14,25 @@ This milestone involved us dealing with data pre-processing. We first tried this
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-##Introduction
+## Introduction
 
-##Methods
+## Methods
 
-##Results
+## Results
 
-##Discussion
+## Discussion
 
-##Conclusion
+## Conclusion
 
-##Statement of Collaboration
+## Statement of Collaboration
 Andrew: Group Member - 
+
 Bryant Quijada: Group Member -  
+
 Clarabelle Lopez: Group Member -  
+
 Fayaz Shaik: Group Member -  
+
 Jordan Phillips: Group Member -  
+
 Owen Lam: Group Member -  
