@@ -13,3 +13,21 @@ This milestone involved us dealing with data pre-processing. We first tried this
 <a target="_blank" href="https://colab.research.google.com/github/CBelleLopez/CSE151A_Proj/blob/main/Project_WriteUp.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+##Introduction
+
+##Methods
+
+##Results
+
+##Discussion
+
+##Conclusion
+
+##Statement of Collaboration
+Andrew: Group Member - 
+Bryant Quijada: Group Member -  
+Clarabelle Lopez: Group Member -  
+Fayaz Shaik: Group Member -  
+Jordan Phillips: Group Member -  
+Owen Lam: Group Member -  
