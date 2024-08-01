@@ -33,7 +33,7 @@ We chose to make our project about the Titanic because it is one of the most inf
 
 ## Results
   * Data Exploration (Included in the Logistic Regression Model Notebook):
-    * (placeholder)
+    * For the revised dataset, histograms, pairplots, correlations between columns, and heatmaps, the resulting diagrams are displayed within our Logistic Regression Model Notebook. 
   * Preprocessing:
     * (placeholder)
   * Logistic Regression Model:
