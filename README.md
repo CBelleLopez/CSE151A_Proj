@@ -25,6 +25,7 @@ We chose to make our project about the Titanic because it is one of the most inf
     * (placeholder)
   * Logistic Regression Model:
     * (placeholder)
+    * Logistic Regression Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Kmeans Cluster Model: 
     * (placeholder)
   * Decision Tree Model: 
