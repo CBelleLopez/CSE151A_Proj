@@ -23,29 +23,39 @@ We chose to make our project about the Titanic because it is one of the most inf
     * Data Exploration Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Preprocessing:
     * (placeholder)
+    * Note: Each model does different major preprocessing, but the links for other models are displayed in the subsection of each model.
   * Logistic Regression Model:
     * (placeholder)
     * Logistic Regression Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Kmeans Cluster Model: 
     * (placeholder)
+    * Kmeans Cluster Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/KMeans_Cluster_Model_Project_WriteUp.ipynb
   * Decision Tree Model: 
     * (placeholder)
+    * Decision Tree Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Decision_Tree_Model_Project_WriteUp.ipynb
   * Neural Network Model: 
     * (placeholder)
+    * Neural Network Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Neural_Network_Model_Project_WriteUp.ipynb
 
 ## Results
   * Data Exploration (Included in the Logistic Regression Model Notebook):
-    * For the revised dataset, histograms, pairplots, correlations between columns, and heatmaps, the resulting diagrams are displayed within our Logistic Regression Model Notebook. 
+    * For the revised dataset, histograms, pairplots, correlations between columns, and heatmaps, the resulting diagrams are displayed within our Logistic Regression Model Notebook.
+    * Data Exploration Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Preprocessing:
     * (placeholder)
+    * Note: Each model does different major preprocessing, but the links for other models are displayed in the subsection of each model.
   * Logistic Regression Model:
     * (placeholder)
+    * Logistic Regression Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Kmeans Cluster Model: 
     * (placeholder)
+    * Kmeans Cluster Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/KMeans_Cluster_Model_Project_WriteUp.ipynb
   * Decision Tree Model: 
     * (placeholder)
+    * Decision Tree Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Decision_Tree_Model_Project_WriteUp.ipynb
   * Neural Network Model: 
     * (placeholder)
+    * Neural Network Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Neural_Network_Model_Project_WriteUp.ipynb
 
 ## Discussion
 
