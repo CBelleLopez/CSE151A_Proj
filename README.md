@@ -27,7 +27,7 @@ We chose to make our project about the Titanic because it is one of the most inf
     * KMeans has only one parameter of how many clusters we want, which we set to 3. In analyzing the results of our model, we printed our Mean Squared Error and plotted out several 3D models of how accurately KMeans was able to distinguish each passenger's class based on a varying feature set every time.
     * Kmeans Cluster Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/KMeans_Cluster_Model_Project_WriteUp.ipynb
   * Decision Tree Model: 
-    * A sklearn decision tree first requires us to split the train and test data in a 80/20 split respectively and then fit the model using the resulting X_train and y_train data. From here the model takes over to determine what splits are required to accruately determine which features are generally accustomed to one class.
+    * The data we used to fit our sklearn decision tree was done with a 80/20 split. From here the model takes over to determine what splits are required to accruately determine which features are generally accustomed to one class.
     * Following this, our results include a printed graphic of how our tree looks including the features it split on, and the mean accuracy of the tree.
     * Decision Tree Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Decision_Tree_Model_Project_WriteUp.ipynb
   * Neural Network Model: 
