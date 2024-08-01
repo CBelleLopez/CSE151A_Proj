@@ -44,23 +44,73 @@ We chose to make our project about the Titanic because it is one of the most inf
 
 ## Results
   * Data Exploration (Included in the Logistic Regression Model Notebook):
-    * For the revised dataset, histograms, pairplots, correlations between columns, and heatmaps, the resulting diagrams are displayed within our Logistic Regression Model Notebook.
-    * Data Exploration Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
+    * This sections featured all the different graphics we thought of generating before we decided to tackle our dataset.
+    ![Figure 1 - Pre-processing features of data](pics/fig1.png)
+    <p style="text-align: center;">
+      <em>Figure 1: View of our dataset and features pre-processing.</em>
+    </p>
+
+    ![Figure 2 - Histogram of feature 'Siblings/Spouses Aboard'](pics/fig2.png)
+    <p style="text-align: center;">
+      <em>Figure 2: Histogram of different values contained in 'Siblings/Spouses Aboard' feature.</em>
+    </p>
+    
+    ![Figure 3 - Pairplot of all features](pics/fig3.png)
+    <p style="text-align: center;">
+      <em>Figure 3: Pairplot of all features contained in processed dataset..</em>
+    </p>
+    
+    ![Figure 4 - Heatmap with coefficients of all features](pics/fig4.png)
+    <p style="text-align: center;">
+      <em>Figure 4: Heatmap with all features in dataframe pictures.</em>
+    </p>
   * Preprocessing:
     * There were not many results for the major preprocessing since there was not much output during major preprocessing, but any resulting output from major preprocessing is displayed within each Model’s Notebooks.
-    * Note: Each model does different major preprocessing, but the links for other models are displayed in the subsection of each model.
+    * Note: Each model does different major preprocessing, and the links for each different model and all its graphics are included in each respective notebook.
   * Logistic Regression Model:
     * For our logistic regression model, around "0.45" was our training error and around "0.44" was our testing error. When we printed out a classification report to see our precision and recall, our model had around 79% accuracy on the training data and around 0.82% accuracy on the test data. Even printing our scatterplot displayed a check-mark eqsue shape. Taking a look at the coefficients, Pclass (Passenger class) seems to have a negative coefficient of around -1.97, sex has a coefficient of around -2.40, age has a coefficient of -1.86, siblings/spouses aboard has a negative coefficient of -1.58, parents/children aboard has a negative coefficient of -0.42, and fare has a coefficient of 0.55. For the classification report, coefficient scatterplot, and logistic regression plots, the resulting diagrams are displayed within our Logistic Regression Model Notebook.
-    * Logistic Regression Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
-  * Kmeans Cluster Model: 
-    * (placeholder)
-    * Kmeans Cluster Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/KMeans_Cluster_Model_Project_WriteUp.ipynb
+
+    ![Figure 5 - Scatterplot of all coefficients](pics/fig5.png)
+    <p style="text-align: center;">
+      <em>Figure 5: Scatterplot of all coefficients/features in linear regression.</em>
+    </p>
+
+    ![Figure 6 - Linear regression predicting the probability of 'survival' given 'sex'](pics/fig6.png)
+    <p style="text-align: center;">
+      <em>Figure 6: Linear regression predicting the probability of 'survival' given 'sex'.</em>
+    </p>
+  * Kmeans Cluster Model:
+    * This model was where we first started using our new 'family_size' feature and how it looks in practice.
+
+    ![Figure 7 - .head() of 'family_size' feature](pics/fig7.png)
+    <p style="text-align: center;">
+      <em>Figure 7: How 'family_size' feature looks.</em>
+    </p>
+    * For our KMeans model, we found that our training MSE was around "0.95" and our testing MSE was "1.16". When we also checked for our KMeans' accuracy, we saw that the testing accuracy was around "0.54" and our training accuracy was "0.6" The 3D models are also included which depict how KMeans identify classes.
+
+    ![Figure 8 - 3D depcition of KMeans identifying features 'Sex', 'Age' and 'Family_Size'](pics/fig8.png)
+    <p style="text-align: center;">
+      <em>Figure 8: 3D depcition of KMeans identifying features 'Sex', 'Age' and 'Family_Size.</em>
+    </p>
   * Decision Tree Model: 
-    * (placeholder)
-    * Decision Tree Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Decision_Tree_Model_Project_WriteUp.ipynb
-  * Neural Network Model: 
-    * (placeholder)
-    * Neural Network Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Neural_Network_Model_Project_WriteUp.ipynb
+    * For our decision tree results, we produced our model score based on the train datasets which we got around "0.83" and for our testing datasets we got "0.58."
+
+    ![Figure 9 - Decision tree graphic](pics/fig9.png)
+    <p style="text-align: center;">
+      <em>Figure 9: Decision tree graphic.</em>
+    </p>
+  * Neural Network Model:
+    * Results for our neural network were outputted in our two different classification reports for training data and the testing data. We also outputted a confusion matrix on these results as well.
+
+    ![Figure 10 - Training Reports](pics/fig11.png)
+    <p style="text-align: center;">
+      <em>Figure 10: Classification reports on training and testing data.</em>
+    </p>
+    
+    ![Figure 11 - Confusion matrix on test data](pics/fig10.png)
+    <p style="text-align: center;">
+      <em>Figure 11: Confusion matrix on test data.</em>
+    </p>
 
 ## Discussion
 ### Data Exploration
