@@ -19,7 +19,8 @@ We chose to make our project about the Titanic because it is one of the most inf
 
 ## Methods
   * Data Exploration (Included in the Logistic Regression Model Notebook):
-    * For the data exploration section, we read in our dataset and displayed it to see our initial number of features (8) and our initial number of observations (887). Then we did a little bit of preprocessing of our data by dropping the “Name” feature and encoding the “Sex” feature to [0,1] where 0 represented females and 1 represented males. We then calculated some statistical data such as percentile, mean, and standard deviation on our revised dataset. After that, we visualized our data by displaying histograms, pairplots, correlations between columns, and heatmaps. 
+    * For the data exploration section, we read in our dataset and displayed it to see our initial number of features (8) and our initial number of observations (887). Then we did a little bit of preprocessing of our data by dropping the “Name” feature and encoding the “Sex” feature to [0,1] where 0 represented females and 1 represented males. We then calculated some statistical data such as percentile, mean, and standard deviation on our revised dataset. After that, we visualized our data by displaying histograms, pairplots, correlations between columns, and heatmaps.
+    * Data Exploration Link: [https://colab.research.google.com/github/CBelleLopez/CSE151A_Proj/blob/main/Project_WriteUp.ipynb](https://colab.research.google.com/github/CBelleLopez/CSE151A_Proj/blob/main/Project_WriteUp.ipynb)
   * Preprocessing:
     * (placeholder)
   * Logistic Regression Model:
