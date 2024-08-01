@@ -25,7 +25,7 @@ We chose to make our project about the Titanic because it is one of the most inf
     * For the preprocessing section, we built upon the basic preprocessing that we did in the data exploration section of each of our four models. For the Logistic Regression Model (which also contains our data exploration), we transformed our modified dataset and normalized the values of our features, and we used ‘Survived’ as our target variable when splitting our dataset into train and test datasets. For the Kmeans Cluster Model, we created a new feature labeled ‘Family_Size’, we dropped the features 'Siblings/Spouses Aboard' and 'Parents/Children Aboard', and we used ‘Pclass’ as our target variable when splitting our dataset into train and test datasets. For the Decision Tree Model, we created a new feature labeled ‘Family_Size’, and we used ‘Pclass’ as our target variable when splitting our dataset into train and test datasets. For the Neural Network Model, we created two new features labeled ‘Family Size’ and ‘Travel Alone’, we transformed our modified dataset and normalized the values of our features, we one hot encoded our ‘Pclass’ feature into three distance features which were ‘1’, ‘2’, and ‘3’ (each number represents the passengers class where 3 is the lower class, 2 is the middle class, and 1 is the upper class), and we used our three distinct Pclass features (‘1’, ‘2’, and ‘3’) as our target variables.
     * Note: Each model does different major preprocessing, but the links for other models are displayed in the subsection of each model.
   * Logistic Regression Model:
-    * (placeholder)
+    * For the Logistic Regression Model, we utilized logistic regression and applied it to our train/test datasets. We then made predictions on our train and test data and checked our model’s accuracy. We also printed out a classification report on our test data, printed out our feature coefficients using a scatterplot, and printed out several scatterplots comparing different features with our target variable ‘Survived’ using their line of best fits.
     * Logistic Regression Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Kmeans Cluster Model: 
     * (placeholder)
@@ -42,10 +42,10 @@ We chose to make our project about the Titanic because it is one of the most inf
     * For the revised dataset, histograms, pairplots, correlations between columns, and heatmaps, the resulting diagrams are displayed within our Logistic Regression Model Notebook.
     * Data Exploration Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Preprocessing:
-    * (placeholder)
+    * There were not many results for the major preprocessing since there was not much output during major preprocessing, but any resulting output from major preprocessing is displayed within each Model’s Notebooks.
     * Note: Each model does different major preprocessing, but the links for other models are displayed in the subsection of each model.
   * Logistic Regression Model:
-    * (placeholder)
+    * For our logistic regression model, around "0.45" was our training error and around "0.44" was our testing error. When we printed out a classification report to see our precision and recall, our model had around 79% accuracy on the training data and around 0.82% accuracy on the test data. Even printing our scatterplot displayed a check-mark eqsue shape. Taking a look at the coefficients, Pclass (Passenger class) seems to have a negative coefficient of around -1.97, sex has a coefficient of around -2.40, age has a coefficient of -1.86, siblings/spouses aboard has a negative coefficient of -1.58, parents/children aboard has a negative coefficient of -0.42, and fare has a coefficient of 0.55. For the classification report, coefficient scatterplot, and logistic regression plots, the resulting diagrams are displayed within our Logistic Regression Model Notebook.
     * Logistic Regression Model Link: https://github.com/CBelleLopez/CSE151A_Proj/blob/main/Logistic_Regression_Model_Project_WriteUp.ipynb
   * Kmeans Cluster Model: 
     * (placeholder)
