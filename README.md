@@ -88,7 +88,7 @@ We chose to make our project about the Titanic because it is one of the most inf
     </p>
     * For our KMeans model, we found that our training MSE was around "0.95" and our testing MSE was "1.16". When we also checked for our KMeans' accuracy, we saw that the testing accuracy was around "0.54" and our training accuracy was "0.6" The 3D models are also included which depict how KMeans identify classes.
 
-    ![Figure 8 - 3D depcition of KMeans identifying features 'Sex', 'Age' and 'Family_Size'](pics/fig8.png)
+    ![Figure 8 - 3D depcition of KMeans identifying features 'Sex', 'Age' and 'Family_Size'](pics/fig12.png)
     <p style="text-align: center;">
       <em>Figure 8: 3D depcition of KMeans identifying features 'Sex', 'Age' and 'Family_Size.</em>
     </p>
