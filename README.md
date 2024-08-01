@@ -156,17 +156,17 @@ We opted to predict on both test and train data so we can draw comparisons betwe
 We began this project trying to predict survival rate using logistic regression, but we were told last minute this was too simple so we had to think more abstractly. We were able to come up with k means clustering, a decision tree, and a neural network model to predict the class of a passenger. One thing we could do differently in the future is dive deeper into these models and optimize them further, varying the amount of nodes in the neural network and experimenting with various activation functions. We could also perform cross validation to further validate our results. We could also think of new ways to use the new features we created and draw further conclusions about the interrelationships among features. Overall, this project successfully demonstrated the application of various modeling techniques on the Titanic dataset, and there is always room for improvement in the predictive capabilities of the models. 
 
 ## Statement of Collaboration
-Andrew Lu: Group Member - 
+Andrew Lu: Group Member - I attended a hacking session to get extra clarification and guidance on what to add to our project since we were informed after Milestone 3 that our original proposal was too simple, I did the coding for the Kmeans Clustering Model Notebook and helped with the coding for the Decision Tree Model Notebook. 
 
-Bryant Quijada: Group Member -  
+Bryant Quijada: Group Member - I attended a hacking session to get extra clarification and guidance on what to add to our project since we were informed after Milestone 3 that our original proposal was too simple, I did the coding for the Neural Network Model Notebook (with the assistance of Clarabelle and Fayaz through their suggestions and debugging help), I made copies of each model’s notebook and uploaded onto github, I completed the Introduction section, and I completed the Data Exploration subsection, Preprocessing subsection, and Logistic Regression Model subsection for the Methods and Results sections.
 
-Clarabelle Lopez: Group Member -  
+Clarabelle Lopez: Group Member - I attended a hacking session to get extra clarification and guidance on what to add to our project since we were informed after Milestone 3 that our original proposal was too simple, I collaborated with Bryant during the creation of the code for the Neural Network Model Notebook by giving suggestions and helping debug. I also completed the discussion section for the report in the ReadMe.   
 
-Fayaz Shaik: Group Member -  
+Fayaz Shaik: Group Member - I attended a hacking session to get extra clarification and guidance on what to add to our project since we were informed after Milestone 3 that our original proposal was too simple, I collaborated with Bryant during the creation of the code for the Neural Network Model Notebook by giving suggestions and helping debug, I added figures to the results section, and I completed the Kmeans Cluster Model subsection, Decision Tree Model subsection, and Neural Network Model subsection for the Methods and Results sections. 
 
-Jordan Phillips: Group Member -  
+Jordan Phillips: Group Member - I attended a hacking session to get extra clarification and guidance on what to add to our project since we were informed after Milestone 3 that our original proposal was too simple, I helped with some of the coding for the Kmeans Clustering Model coding and Decision Tree Model coding, and I completed the conclusion section for the report in the ReadMe.  
 
-Owen Lam: Group Member -  
+Owen Lam: Group Member - I attended a hacking session to get extra clarification and guidance on what to add to our project since we were informed after Milestone 3 that our original proposal was too simple, I did the coding for the Decision Tree Model Notebook, helped out with the Kmeans clustering coding, I attended office hours to get feedback on our revised proposal and our Kmeans Clustering Model Notebook, helped manage version control and resolved merge conflicts. 
 
 ---
 
